@@ -43,8 +43,8 @@ https://vsd121.mycdn.me/hls/1626890570324.m3u8/sig/5DYOApVZN2M/expires/163062708
 https://ok.ru/res/i/video/stub.mp4
 #EXTINF:-1,DINEUXV | XD
 https://vsd96.mycdn.me/hls/1637281761876.m3u8/sig/k9qOZoKQR54/expires/1630627671832/srcIp/187.160.102.44/clientType/0/srcAg/CHROME_ANDROID/mid/2790268411476/video.m3u8
-#EXTINF:-1,FOX START ACTION | FOX
-
+#EXTINF:-1,serie| serie
+http://127.0.0.1:4445/LuisMiguelS02E07.mkv
 #EXTINF:-1,FOX START ACTION | FOX
 
 #EXTINF:-1,FOX START ACTION | FOX
